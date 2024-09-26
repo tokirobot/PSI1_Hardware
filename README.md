@@ -96,6 +96,9 @@ You will be required to purchase some metal and other components yourself.
     <tr>
       <td>m5 screw 15mm</td> <td></td>
     </tr>
+    <tr>
+      <td>m5 screw 40mm</td> <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -104,24 +107,24 @@ You will be required to purchase some metal and other components yourself.
 We built our own connector board to wire the connectors efficiently. We also created an eye LED board to monitor the robot's status.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="img/connector_img.jpg" alt="PSI_cad" style="width: 30%; height: 40%;">
-  <img src="img/eye_led_img.jpg" alt="PSI_real" style="width: 15%; height: 30%;">
+  <img src="img/connector_img.jpg" alt="PSI_cad" style="width: 20%; height: 40%;">
+  <img src="img/eye_led_img.jpg" alt="PSI_real" style="width: 12%; height: 30%;">
 </div>
 
 
 When completed and assembled, it looks like the image below.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="img/conimg1.jpg" alt="Image 1" style="width: 40%; height: 300px; margin-bottom: 10px;">
-  <img src="img/conimg2.jpg" alt="Image 2" style="width: 40%; height: 300px; margin-bottom: 10px;">
-  <img src="img/conimg3.jpg" alt="Image 3" style="width: 40%; height: 300px;">
-  <img src="img/conimg4.jpg" alt="Image 4" style="width: 40%; height: 300px;">
+  <img src="img/conimg1.jpg" alt="Image 1" style="width: 30%; height: 250px; margin-bottom: 10px;">
+  <img src="img/conimg2.jpg" alt="Image 2" style="width: 30%; height: 250px; margin-bottom: 10px;">
+  <img src="img/conimg3.jpg" alt="Image 3" style="width: 30%; height: 250px;">
+  <img src="img/conimg4.jpg" alt="Image 4" style="width: 30%; height: 250px;">
 </div>
 
 
 <div style="text-align: center;">
-  <img src="img/ledimg1.jpg" alt="PSI_cad" width="200px">
-  <img src="img/led_pika_pika_tyu.jpg" alt="PSI_cad" width="200px">
+  <img src="img/ledimg1.jpg" alt="PSI_cad" width="150px">
+  <img src="img/led_pika_pika_tyu.jpg" alt="PSI_cad" width="150px">
 </div>
 
 
