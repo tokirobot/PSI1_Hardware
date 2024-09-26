@@ -40,10 +40,10 @@ You should be required to purchase some metal and other components yourself.
   </thead>
   <tbody>
     <tr>
-      <td>insert-nut m3</td> <td> OD 4.5mm Length 5mm </td>
+      <td>insert-nut m3</td> <td> O.D. 4.5mm Length 5mm </td>
     </tr>
     <tr>
-      <td>insert-nut m5</td> <td> OD 7mm Length 7mm </td>
+      <td>insert-nut m5</td> <td> O.D. 7mm Length 7mm </td>
     </tr>
     <tr>
       <td>ball screw 200mm</td> <td> A lead length of at least 20 mm is recommended </td>
