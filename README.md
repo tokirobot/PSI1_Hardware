@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="img/QUADROimg.png" alt="PSI_cad" width="700px">
+  <img src="img/QUADROimg.png" alt="PSI_cad" width="500px">
 </div>
 
 # Open Source Quadruped Robot : PSI1 Hardware
@@ -112,16 +112,16 @@ We built our own connector board to wire the connectors efficiently. We also cre
 When completed and assembled, it looks like the image below.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="img//conimg1.jpg" alt="Image 1" style="width: 45%; height: 300px; margin-bottom: 10px;">
-  <img src="img/conimg2.jpg" alt="Image 2" style="width: 45%; height: 300px; margin-bottom: 10px;">
-  <img src="img/conimg3.jpg" alt="Image 3" style="width: 45%; height: 300px;">
-  <img src="img/conimg4.jpg" alt="Image 4" style="width: 45%; height: 300px;">
+  <img src="img/conimg1.jpg" alt="Image 1" style="width: 40%; height: 300px; margin-bottom: 10px;">
+  <img src="img/conimg2.jpg" alt="Image 2" style="width: 40%; height: 300px; margin-bottom: 10px;">
+  <img src="img/conimg3.jpg" alt="Image 3" style="width: 40%; height: 300px;">
+  <img src="img/conimg4.jpg" alt="Image 4" style="width: 40%; height: 300px;">
 </div>
 
 
 <div style="text-align: center;">
-  <img src="img/ledimg1.jpg" alt="PSI_cad" width="300px">
-  <img src="img/led_pika_pika_tyu.jpg" alt="PSI_cad" width="250px">
+  <img src="img/ledimg1.jpg" alt="PSI_cad" width="200px">
+  <img src="img/led_pika_pika_tyu.jpg" alt="PSI_cad" width="200px">
 </div>
 
 
@@ -141,7 +141,7 @@ When completed and assembled, it looks like the image below.
         <td> 8-bit shift register </td> <td>TC74HC595AF</td>
       </tr>
       <tr>
-        <td>xh connector</td> <td></td>
+        <td>xh connector 6pin</td> <td></td>
       </tr>
     </tbody>
   </table>
