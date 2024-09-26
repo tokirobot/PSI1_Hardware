@@ -29,7 +29,7 @@ We use cybergear as an actuator for our robot.
   <img src="img/psi1_tokutyouimg.jpg" alt="PSI_real">
 </div>
 
-You will be required to purchase some metal and other components yourself.
+You should be required to purchase some metal and other components yourself.
 
 <table>
   <caption>Metal parts that need to be purchased</caption>
@@ -102,7 +102,6 @@ You will be required to purchase some metal and other components yourself.
   </tbody>
 </table>
 
-
 ## Electronics
 We built our own connector board to wire the connectors efficiently. We also created an eye LED board to monitor the robot's status.
 
@@ -110,7 +109,6 @@ We built our own connector board to wire the connectors efficiently. We also cre
   <img src="img/connector_img.jpg" alt="PSI_cad" style="width: 20%; height: 40%;">
   <img src="img/eye_led_img.jpg" alt="PSI_real" style="width: 12%; height: 30%;">
 </div>
-
 
 When completed and assembled, it looks like the image below.
 
@@ -172,8 +170,8 @@ When completed and assembled, it looks like the image below.
 </div>
 
 
-## How to assenble
-Editing now
+## How to assemble
+Editing now comming soon…
 
 
 ## Conclusion
